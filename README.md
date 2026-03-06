@@ -53,12 +53,20 @@ Telegram: Replace your bot token here in bot.py with your token from @BotFather.
 Google Drive: Place your client_secrets.json in the credentials/ folder.
 Dropbox: Generate an Access Token from the Dropbox Developer Console and add it to the accounts dictionary.
 4. Run the Bot: python bot.py
+
+
 <img width="485" height="873" alt="image" src="https://github.com/user-attachments/assets/c0dc067b-5d4c-4773-9c26-2dfae67b9a62" />
+
 <img width="480" height="842" alt="image" src="https://github.com/user-attachments/assets/fc5966e4-36e5-4105-a0e0-fbf994920ffa" />
+
 <img width="483" height="797" alt="image" src="https://github.com/user-attachments/assets/b770953f-d5e2-4ae2-be1f-faf035a8218a" />
+
 <img width="480" height="858" alt="image" src="https://github.com/user-attachments/assets/131b9f47-8ba6-4e11-951e-50401769d77b" />
+
 <img width="482" height="592" alt="image" src="https://github.com/user-attachments/assets/7192dd77-5317-46e9-b2f8-130b288deb5f" />
+
 <img width="479" height="857" alt="image" src="https://github.com/user-attachments/assets/5aad35a6-de14-4336-99c2-d467d0b91248" />
+
 <img width="479" height="858" alt="image" src="https://github.com/user-attachments/assets/735f22ba-f477-420d-b086-950919ebf1ff" />
 
 
